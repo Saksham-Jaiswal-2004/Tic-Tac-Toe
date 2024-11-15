@@ -1,0 +1,170 @@
+********  Past Games  ********
+
+Date: 15-11-2024
+Time: 11:48
+Player-1: Saksham Jaiswal
+Player-2: Sarbajit Kr. Dey
+Result: Saksham Jaiswal Wins!
+
+Date: 15-11-2024
+Time: 11:49
+Player-1: Yuval Agarwal
+Player-2: Darsh Patel
+Result: Darsh Patel Wins!
+
+Date: 15-11-2024
+Time: 11:49
+Player-1: Anubhav Jaiswal
+Player-2: Shreya Ray
+Result: Game Draw!
+
+Date: 15-11-2024
+Time: 13:47
+Player-1: Saksham
+Player-2: Aliza
+Result: Saksham Wins!
+
+Date: 15-11-2024
+Time: 13:48
+Player-1: Harsh Agarwal
+Player-2: Fozia Jawed
+Result: Game Draw!
+
+Date: 15-11-2024
+Time: 14:11
+Player-1: SJ
+Player-2: ABCD
+Result: SJ Wins!
+
+Date: 15-11-2024
+Time: 19:33
+Player-1: SJ
+Player-2: AB
+Result: SJ Wins!
+
+Date: 15-11-2024
+Time: 19:35
+Player-1: Bob
+Player-2: Lucy
+Result: Lucy Wins!
+
+Date: 15-11-2024
+Time: 19:42
+Player-1: Saksham
+Player-2: Roy
+Result: Saksham Wins!
+
+Date: 15-11-2024
+Time: 19:43
+Player-1: a
+Player-2: b
+Result: a Wins!
+
+Date: 15-11-2024
+Time: 19:52
+Player-1: Ray
+Player-2: Dave
+Result: Ray Wins!
+
+Date: 15-11-2024
+Time: 20:46
+Player-1: Saksham
+Player-2: Computer
+Result: Saksham Wins!
+
+Date: 15-11-2024
+Time: 20:46
+Player-1: ABC
+Player-2: Computer
+Result: Computer Wins!
+
+Date: 15-11-2024
+Time: 20:55
+Player-1: Sj
+Player-2: Computer
+Result: Sj Wins!
+
+Date: 15-11-2024
+Time: 20:55
+Player-1: Sj
+Player-2: Computer
+Result: Computer Wins!
+
+Date: 15-11-2024
+Time: 20:55
+Player-1: Sj
+Player-2: Computer
+Result: Sj Wins!
+
+Date: 15-11-2024
+Time: 20:57
+Player-1: abcd
+Player-2: Computer
+Result: Game Draw!
+
+Date: 15-11-2024
+Time: 20:58
+Player-1: qwerty
+Player-2: Computer
+Result: qwerty Wins!
+
+Date: 15-11-2024
+Time: 20:59
+Player-1: zxcvb
+Player-2: Computer
+Result: zxcvb Wins!
+
+Date: 15-11-2024
+Time: 21:25
+Player-1: Saiyam
+Player-2: Computer
+Result: Saiyam Wins!
+
+Date: 15-11-2024
+Time: 21:26
+Player-1: Robot
+Player-2: Computer
+Result: Computer Wins!
+
+Date: 15-11-2024
+Time: 21:43
+Player-1: Wiley
+Player-2: Computer
+Result: Computer Wins!
+
+Date: 15-11-2024
+Time: 21:49
+Player-1: az
+Player-2: qa
+Result: Game Draw!
+
+Date: 15-11-2024
+Time: 22:20
+Player-1: alpha
+Player-2: Computer
+Result: alpha Wins!
+
+Date: 15-11-2024
+Time: 23:53
+Player-1: sj
+Player-2: Computer
+Result: Computer Wins!
+
+Date: 15-11-2024
+Time: 23:53
+Player-1: abcd
+Player-2: Computer
+Result: Game Draw!
+
+Date: 16-11-2024
+Time: 00:02
+Player-1: Rafael
+Player-2: Computer
+Result: Computer Wins!
+
+Date: 16-11-2024
+Time: 00:02
+Player-1: qwerty
+Player-2: Computer
+Result: qwerty Wins!
+
