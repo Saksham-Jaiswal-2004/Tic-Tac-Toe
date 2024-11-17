@@ -20,6 +20,8 @@ Version-5 -> (I) Improved logic of draw game
 
 Version-6 -> Final Version of the game. Added a different level system for playing with the computer option.
 
+Version-7 -> I made some changes to run my game on Ubuntu OS.
+
 Features
 Two Game Modes:
 Pass and Play: Play with a friend locally.
