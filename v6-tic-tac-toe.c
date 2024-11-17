@@ -71,11 +71,6 @@ int main()
         }
         if(gameType==3)
         {
-            // system("cls");
-            // printf("Under Maintainence....\n");
-            // printf("Returning back to Main Menu.\n");
-            // Sleep(1000);
-            // main();
             playComputer(data, 1, 2);
         }
 
